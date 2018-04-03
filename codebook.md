@@ -1,6 +1,9 @@
- 
- ## Data Heading
+# Tidydata.csv
+This data summarises mean values of all measurement statistics (mean and standard deviation) for all the same activities performed by the same subject  
 
+There were 30 subjects performing six activities (WALKING WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
+ ## Data Heading
 ### Indentifier
   * Subject                                                                       
   * Activity                                                                      
