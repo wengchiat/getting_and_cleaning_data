@@ -16,7 +16,7 @@
   * This file is the activity's label for each observation in the X_train files 
 * './train/subject_train.txt'
   * This file is the subject's label for each observation in the X_train files 
- * './features.txt'
+* './features.txt'
   * This file is the variable names for the data X_test and X_train 
 * './activity_label.txt'
   * This file is the activity list with both descriptive value and numerical value 
