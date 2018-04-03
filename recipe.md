@@ -20,3 +20,8 @@
   * This file is the variable names for the data X_test and X_train 
 * './activity_label.txt'
   * This file is the activity list with both descriptive value and numerical value 
+
+## Process in R-script
+* Read all eight files above 
+* Merge all tests and train files e.g. X_test and X_train, Y_test and Y_train, subject_test and subject_train
+* Merge the the merged data from the previous process with the following order, subject, Y_test_train, X_test_train
