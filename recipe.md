@@ -27,5 +27,5 @@
 * Merge the the merged data from the previous step with the following order, subject, Y_test_train, X_test_train
 * Remove all other columns except the 'mean' and 'standard deviation' columns
 * Rename columns headings and activity number with descriptive statement
-* Group the data according to subejct and activities and then summarise the mean
+* Group the data according to subject and activities and then summarise the mean
 * Save the summarised statistics as 'tidydata.csv'
